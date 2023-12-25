@@ -16,6 +16,8 @@ def speed_time(time_s, time_e, userinput):
     time_R = round(time, 2)
     speed = len(userinput)/ time_R
     return round(speed)
+
+
 while True:
     chk = input("Are you ready yes(y) or no(n) : ")
     if chk == "yes":

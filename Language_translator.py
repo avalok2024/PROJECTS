@@ -10,6 +10,7 @@ def change(text = "type...", src = "English", dest = "hindi"):
     trans1 = trans.translate(text=text1, src=src1, dest=dest1)
     return trans1.text
 
+
 def data():
     s = comb_sor.get()
     d = comb_dest.get()
