@@ -2,7 +2,7 @@ import datetime
 import time
 
 end_time = datetime.datetime(2023, 12, 30)
-site_block = ["https://www.youtube.com/"]
+site_block = ["https://www.facebook.com/"]
 hosts_path = "C:/Windows/System32/drivers/etc/hosts"
 redirect = "127.0.0.1"
 
