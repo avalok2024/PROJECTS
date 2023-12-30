@@ -39,6 +39,6 @@ while True:
         print("Speed : ", speed_time(time_1, time_2, testinput), "w/sec")
         print("Error : ", mistake(test1, testinput))
     elif chk == "no":
-        print("thanks for intrest!")
+        print("thanks for interest!")
     else:
         print("Wrong or Invalid keyword")
